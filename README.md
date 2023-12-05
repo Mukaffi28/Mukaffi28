@@ -1,4 +1,11 @@
-### Hi there 👋
+
+## Mukaffi Bin Moin
+
+Hi there 👋 
+I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree in Computer Science and Engineering at Ahsanullah University of Science and Technology.
+<br>
+<img src="https://komarev.com/ghpvc/?username=Mukaffi28&style=flat-square&color=blue" alt=""/>
+
 
 <!--
 **Mukaffi28/Mukaffi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
