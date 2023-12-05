@@ -4,7 +4,7 @@
 Hi there 👋 
 I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree in Computer Science and Engineering at Ahsanullah University of Science and Technology.
 <br>
-<img src="https://komarev.com/ghpvc/?username=Mukaffi28&style=flat-square&color=blue" alt=""/>
+                            <img src="https://komarev.com/ghpvc/?username=Mukaffi28&style=flat-square&color=blue" alt=""/>
 
 
 <!--
