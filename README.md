@@ -11,7 +11,7 @@ I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree i
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="45%">
 
 <div align="center">  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
@@ -23,7 +23,7 @@ I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree i
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="50%">
 
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -36,14 +36,11 @@ I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree i
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="25%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaffi28&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
+</td>
+</tr></table>  
 
 <br/>  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaffi28&hide_border=true&layout=compact" align="center" />
 
 ## Connect with me  
 <div align="center">
