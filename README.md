@@ -40,7 +40,13 @@ I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree i
 </tr></table>  
 
 <br/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaffi28&hide_border=true&layout=compact" align="center" />
+<div align="center">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaffi28&hide_border=true&layout=compact" align="center" />  </div> <br/>  
+<div align="center">      
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mukaffi28&show_icons=true&locale=en" alt="Mukaffi28" /> &nbsp 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukaffi28&" alt="Mukaffi28" />
+</div>
+
 
 ## Connect with me  
 <div align="center">
