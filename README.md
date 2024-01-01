@@ -51,6 +51,9 @@ I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree i
 
 ## Connect with me  
 <div align="center">
+<a href="mailto:mukaffi28@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>    
 <a href="https://github.com/Mukaffi28" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
