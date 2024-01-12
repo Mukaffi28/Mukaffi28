@@ -70,6 +70,9 @@ I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree i
   
 
 <br/>  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mukaffi28&theme=darkhub" alt="Mukaffi28" /></a> </p>
+<br/>  
+
 
 
 <!--
