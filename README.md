@@ -28,7 +28,8 @@ I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree i
 </div>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="45%">
+<div align="center">  
+<table><tr><td valign="top" width="50%">
 
 <div align="center">  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
@@ -55,23 +56,17 @@ I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree i
 
 </td>
 </tr></table>  
-
-<br/>  
-<div align="center">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaffi28&hide_border=true&layout=compact" align="center" />  </div> <br/>  
-<div align="center">      
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mukaffi28&show_icons=true&locale=en" alt="Mukaffi28" /> </div>  <br/> 
-<div align="center">      
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukaffi28&" alt="Mukaffi28" />
 </div>
 
+
+<br/> 
+<div align="center">  
   <br/>
     <a href="https://github-readme-stats.vercel.app/api?username=Mukaffi28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mukaffi28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaffi28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaffi28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
+  </div>
+ 
 <br/>
 
   
