@@ -5,7 +5,7 @@ Hi there 👋
 I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree in Computer Science and Engineering at Ahsanullah University of Science and Technology.
 <br> <br> Skills: <br>○ Programming: Python, C++, Java (OOP). <br>○ Database: MySQL, Oracle SQL ,PL/SQL, Firebase. <br>○ Libraries: Pandas, Numpy, Matplotlib, Tensorflow, Keras, PyTorch, Scikit-Learn. <br>○ ML and DL Skills: Machine learning algorithms, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks (GANs), Object, Detection Models, Text Classification and Categorization, Sequence-to-Sequence Models, Language Modeling.  <br>○ Miscellaneous: HTML, CSS, Django, PHP, Bootstrap, Git.
 
-- 🌱 I’m currently learning Django, MLOps. 
+- 🌱 I’m currently learning Django & MLOps. 
 <br> <br>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Mukaffi28&style=flat-square&color=blue" alt="Profile Views"/>
