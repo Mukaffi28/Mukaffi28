@@ -74,11 +74,11 @@ I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree i
 
 <br/>  
 <div align="center">  
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mukaffi28&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="[https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com?user=Mukaffi28&theme=tokyonight)"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mukaffi28&theme=tokyonight" alt="Mukaffi28" /></a>
  </div>    
 <br/>  
 <br/>  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mukaffi28&theme=darkhub" alt="Mukaffi28" /></a> </p>
+<p align="center"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Mukaffi28&theme=darkhub)"><img src="https://github-profile-trophy.vercel.app/?username=Mukaffi28&theme=darkhub" alt="Mukaffi28" /></a> </p>
 <br/>  
 
 
