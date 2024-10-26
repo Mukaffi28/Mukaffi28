@@ -1,11 +1,12 @@
 
 ## Mukaffi Bin Moin (ML Enthusiast!!)
 
-Hi there 👋 
-I am Mukaffi Bin Moin, having recently completed my Bachelor of Science degree in Computer Science and Engineering at Ahsanullah University of Science and Technology.
-<br> <br> Skills: <br>○ Programming: Python, C++, Java (OOP). <br>○ Database: MySQL, Oracle SQL ,PL/SQL, Firebase. <br>○ Libraries: Pandas, Numpy, Matplotlib, Tensorflow, Keras, PyTorch, Scikit-Learn. <br>○ ML and DL Skills: Machine learning algorithms, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks (GANs), Object, Detection Models, Text Classification and Categorization, Sequence-to-Sequence Models, Language Modeling.  <br>○ Miscellaneous: HTML, CSS, Django, PHP, Bootstrap,Git. 
+Hi there 👋 <br> 
+I am Mukaffi Bin Moin, currently working as a Machine Learning Engineer (Level-I) at ANTT Robotics Ltd. I obtained my Bachelor's degree in Computer Science and Engineering from the Ahsanullah University of Science and Technology.
 
-- 🌱 I’m currently learning Django & MLOps. 
+My research interests focuses on Medical Image Analysis, Multimodal Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Large Vision Models (LVMs), Computer Vision, Generative Adversarial Networks (GANs), Machine Learning, and the applications of Deep Learning. I am open to collaboration options that are in line with my research aims and interests. Please contact me via email if you have any questions or are interested in collaborating.
+
+
 <br> <br>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Mukaffi28&style=flat-square&color=blue" alt="Profile Views"/>
