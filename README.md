@@ -2,7 +2,7 @@
 ## Mukaffi Bin Moin (ML Enthusiast!!)
 
 Hi there 👋 <br> 
-I am Mukaffi Bin Moin, currently working as a Machine Learning Engineer (Level-I) at ANTT Robotics Ltd. I obtained my Bachelor's degree in Computer Science and Engineering from the Ahsanullah University of Science and Technology.
+I am Mukaffi Bin Moin, currently working as a Software Engineer (AI/ML) at Brain Station 23. I obtained my Bachelor's degree in Computer Science and Engineering from the Ahsanullah University of Science and Technology.
 
 My research interests focuses on Medical Image Analysis, Multimodal Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Large Vision Models (LVMs), Computer Vision, Generative Adversarial Networks (GANs), Machine Learning, and the applications of Deep Learning. I am open to collaboration options that are in line with my research aims and interests. Please contact me via email if you have any questions or are interested in collaborating.
 
