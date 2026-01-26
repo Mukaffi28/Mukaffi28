@@ -29,7 +29,7 @@ My research interests focuses on <em> Natural Language Processing (NLP), Social 
 <a href="https://www.kaggle.com/mukaffimoin" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/whothehellismukaffi" target="_blank">
+<a href="https://www.facebook.com/whoismukaffi/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
