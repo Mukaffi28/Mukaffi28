@@ -2,7 +2,7 @@
 ## Mukaffi Bin Moin (ML Enthusiast!!)
 
 Hi there 👋 <br> 
-I am Mukaffi Bin Moin, currently working as a Software Engineer (AI/ML) at Brain Station 23. I obtained my Bachelor's degree in Computer Science and Engineering from the Ahsanullah University of Science and Technology.
+I am Mukaffi Bin Moin, currently working as a Software Engineer II (AI/ML) at Brain Station 23. I obtained my Bachelor's degree in Computer Science and Engineering from the Ahsanullah University of Science and Technology.
 
 My research interests focuses on <em> Natural Language Processing (NLP), Social Media Analysis, Low-Resource Languages, Large Language Models, LLM Agents, Computer Vision, Vision-Language Models, Multimodal AI, Trustworthy AI, Multimodal Agents, AI For Healthcare. </em> I am open to collaboration options that are in line with my research aims and interests. Please contact me via email if you have any questions or are interested in collaborating.
 
