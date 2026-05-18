@@ -1,112 +1,132 @@
-
-## Mukaffi Bin Moin (ML Enthusiast!!)
-
-Hi there 👋 <br> 
-I am Mukaffi Bin Moin, currently working as a Software Engineer II (AI/ML) at Brain Station 23. I obtained my Bachelor's degree in Computer Science and Engineering from the Ahsanullah University of Science and Technology.
-
-My research interests focuses on <em> Natural Language Processing (NLP), Social Media Analysis, Low-Resource Languages, Large Language Models, LLM Agents, Computer Vision, Vision-Language Models, Multimodal AI, Trustworthy AI, Multimodal Agents, AI For Healthcare. </em> I am open to collaboration options that are in line with my research aims and interests. Please contact me via email if you have any questions or are interested in collaborating.
-
-
-<br> <br>
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Mukaffi28&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
-## Connect with me  
-<div align="center">
-<a href="https://mukaffi28.github.io">
-    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
-</a> 
-<a href="mailto:mukaffi28@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="email" style="margin-bottom: 5px;" />
-</a> 
-<a href="https://github.com/Mukaffi28" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Mukaffi-Bin-Moin" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/mukaffimoin" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/whoismukaffi/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-## My Skill Set  
+# Hi there 👋 I'm Mukaffi Bin Moin
 
 <div align="center">
 
-  <!-- Row 1 -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 15px;">
-    <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
-    <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-    <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-    <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-    <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-    <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-    <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-  </div>
-
-  <!-- Row 2 -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 15px;">
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-    <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-    <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-    <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-    <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-    <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  </div>
-
-  <!-- Row 3: LLMs & AI Frameworks -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <a href="https://www.langchain.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/LangChain-1A73E8?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /></a>
-    <a href="https://www.llamaindex.ai/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/LlamaIndex-FF6F00?style=for-the-badge&logo=apachecouchdb&logoColor=white" alt="LlamaIndex" /></a>
-    <a href="https://www.crewai.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CrewAI-6A1B9A?style=for-the-badge&logo=dependabot&logoColor=white" alt="CrewAI" /></a>
-    <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
-    <a href="https://www.langgraph.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/LangGraph-009688?style=for-the-badge&logo=graphene&logoColor=white" alt="LangGraph" /></a>
-  </div>
+### Software Engineer II (AI/ML) | NLP • Multimodal AI • LLM Agents
 
 </div>
 
+---
 
+## 🚀 About Me
 
+I am **Mukaffi Bin Moin**, currently working as a **Software Engineer II (AI/ML)** at **Brain Station 23**. I completed my Bachelor's degree in **Computer Science and Engineering** from **Ahsanullah University of Science and Technology (AUST)**.
 
-<br/> 
-<div align="center">  
-  <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=Mukaffi28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mukaffi28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaffi28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaffi28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  </div>
- 
-<br/>
+My work and research primarily focus on building intelligent systems using **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**, **Multimodal AI**, and **Trustworthy AI**.
 
-<br/>  
-<div align="center">  
-<a href="[https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com?user=Mukaffi28&theme=tokyonight)"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mukaffi28&theme=tokyonight" alt="Mukaffi28" /></a>
- </div>    
-<br/>  
-<br/>  
-<p align="center"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Mukaffi28&theme=darkhub)"><img src="https://github-profile-trophy.vercel.app/?username=Mukaffi28&theme=darkhub" alt="Mukaffi28" /></a> </p>
-<br/>  
+I am passionate about solving real-world problems through AI and actively exploring opportunities for **research collaborations**, particularly in domains aligned with my interests.
 
+---
 
+## 🔬 Research Interests
 
-<!--
-**Mukaffi28/Mukaffi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Natural Language Processing (NLP)
+- Social Media Analysis
+- Low-Resource Languages
+- Large Language Models (LLMs)
+- LLM Agents & Agentic AI
+- Computer Vision
+- Vision-Language Models (VLMs)
+- Multimodal AI
+- Trustworthy AI
+- AI for Healthcare
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### AI / ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### LLM & Agentic Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1A73E8?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F00?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-6A1B9A?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-009688?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Backend & Database
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📌 Current Focus
+
+- Multimodal LLM Systems  
+- Bangla NLP & Low-Resource Language Research  
+- LLM Agents & RAG Systems  
+- Vision-Language Models (VLMs)  
+- Trustworthy AI & Explainability
+
+---
+
+## 📊 GitHub Stats
+
+## 📊 Github Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukaffi28&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukaffi28&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukaffi28" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukaffi28&theme=github_dark" /> 
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukaffi28" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukaffi28&theme=github_dark" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mukaffi28&theme=github-dark-blue&card_width=700)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mukaffi28&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mukaffi28.github.io)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukaffi28@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Mukaffi-Bin-Moin)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mukaffi28)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mukaffimoin)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Mukaffi28&style=for-the-badge)
+
+</div>
