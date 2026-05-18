@@ -8,6 +8,13 @@
 
 ---
 
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Mukaffi28&style=for-the-badge)
+
+</div>
+
 ## 🚀 About Me
 
 I am **Mukaffi Bin Moin**, currently working as a **Software Engineer II (AI/ML)** at **Brain Station 23**. I completed my Bachelor's degree in **Computer Science and Engineering** from **Ahsanullah University of Science and Technology (AUST)**.
@@ -107,24 +114,7 @@ I am passionate about solving real-world problems through AI and actively explor
 
 ## 🤝 Connect With Me
 
-<div align="center">
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mukaffi28.github.io)
+ [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mukaffi28.github.io)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukaffi28@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Mukaffi-Bin-Moin)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mukaffi28)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mukaffimoin) 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukaffi28@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Mukaffi-Bin-Moin)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mukaffi28)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mukaffimoin)
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Mukaffi28&style=for-the-badge)
-
-</div>
