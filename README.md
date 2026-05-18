@@ -73,21 +73,19 @@ I am passionate about solving real-world problems through AI and actively explor
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 Github Stats
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukaffi28&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukaffi28&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukaffi28&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukaffi28" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukaffi28&theme=github_dark" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukaffi28&theme=github_dark" /> 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukaffi28" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukaffi28" /> -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukaffi28&theme=github_dark" />
 
